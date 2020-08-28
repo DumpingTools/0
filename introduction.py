@@ -1,5 +1,5 @@
 from datetime import datetime
-Author = ""
+Author = "DumpingTools"
 Project = "Instagram security testing sandbox"
 print("Project:\033[1;35;40m {}".format(Project))
 print("\033[0;37;40m Author:\033[1;35;40m {}".format(Author))
